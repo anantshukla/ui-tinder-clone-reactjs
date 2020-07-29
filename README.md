@@ -1,6 +1,6 @@
 ## Tinder Clone UI
 
-### You can find the app here: https://sudoku.anantshukla.tech/ ###
+### You can find the app here: https://tinder-clone.anantshukla.tech/ ###
 
 
 *This application is written in ReactJS*
