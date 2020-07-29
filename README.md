@@ -9,10 +9,10 @@
 
 *This is just for Practice and Challenge and was made in less than 3 hours. Please do dont use this for anything that can get you into trouble :3*
 
-Screens:
+UI:
 
-![image](.\img\1.png)
+![image](https://raw.githubusercontent.com/anantshukla/ui-tinder-clone-reactjs/master/img/1.PNG)
 
-![image](.\img\2.png)
+![image](https://raw.githubusercontent.com/anantshukla/ui-tinder-clone-reactjs/master/img/2.PNG)
 
-![image](.\img\3.png)
+![image](https://raw.githubusercontent.com/anantshukla/ui-tinder-clone-reactjs/master/img/3.PNG)
