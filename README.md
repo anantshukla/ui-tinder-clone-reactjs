@@ -5,7 +5,11 @@
 
 *This application is written in ReactJS*
 
-*This application is clone of Tinder. We have used Google FireBase for the Database*
+*This application is clone of Tinder, with the famous Left and Right Swiping Functionality :)*
+
+*I suggest you to resize the width of the window, so as the simulate the mobile environment*
+
+*I have used Google FireBase for the Database*
 
 *This is just for Practice and Challenge and was made in less than 3 hours. Please do dont use this for anything that can get you into trouble :3*
 
